@@ -48,7 +48,9 @@ look at the comment line *Set custom icons*
 use xprop to know the client class name.
 
 The Best way to utilize it is to copy the file into user's awesome directory and then edit it:
- # cp -rf /usr/share/awesome/lib/awful/widget/tasklist.lua ~/.config/awesome/
+
+ # cp -rf /usr/share/awesome/lib/awful ~/.config/awesome/
+
 
 SNAPSHOTS
 ===========
